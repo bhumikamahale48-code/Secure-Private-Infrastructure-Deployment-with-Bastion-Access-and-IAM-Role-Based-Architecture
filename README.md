@@ -40,7 +40,7 @@ The architecture includes:
 
 ### Public Route Table
 
-
+<img width="839" height="359" alt="image" src="https://github.com/user-attachments/assets/1e47c0e3-1c3d-4a69-88ce-5907b81b2a65" />
 
 
 * `0.0.0.0/0 → Internet Gateway`
@@ -48,6 +48,7 @@ The architecture includes:
 ### Private Route Table
 
 
+<img width="831" height="360" alt="image" src="https://github.com/user-attachments/assets/4aca6c9d-7777-4d1b-b694-024e1817a392" />
 
 
 * `0.0.0.0/0 → NAT Gateway`
@@ -57,6 +58,9 @@ The architecture includes:
 ## Security Groups Configuration
 
 ### Bastion Security Group
+
+<img width="836" height="364" alt="image" src="https://github.com/user-attachments/assets/168a4095-9680-4747-9a0c-34392ec15308" />
+
 
 * SSH (Port 22) allowed only from my IP
 * All outbound traffic allowed
