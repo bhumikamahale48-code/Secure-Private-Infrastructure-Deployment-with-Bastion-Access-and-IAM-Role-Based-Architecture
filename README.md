@@ -40,9 +40,15 @@ The architecture includes:
 
 ### Public Route Table
 
+
+
+
 * `0.0.0.0/0 → Internet Gateway`
 
 ### Private Route Table
+
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/942028a3-8e13-4b91-95f2-a7d4f0a85262" />
+
 
 * `0.0.0.0/0 → NAT Gateway`
 
