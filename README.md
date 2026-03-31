@@ -67,6 +67,9 @@ The architecture includes:
 
 ### Private EC2 Security Group
 
+<img width="857" height="377" alt="image" src="https://github.com/user-attachments/assets/78f03c58-891a-4917-ae22-42244bb4beb6" />
+
+
 * SSH (Port 22) allowed only from Bastion Security Group
 * HTTP (Port 80) allowed internally only
 
