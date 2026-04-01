@@ -182,6 +182,6 @@ This project showcases a production-level secure AWS architecture using best pra
 
 ## Contributor
 
-* Riyaj Kalawant
+Bhumika Mahale
 
 ---
